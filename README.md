@@ -1,9 +1,14 @@
 # Bot Digi
 
-- Rebranding ID: 683a25a5c58a2dddbb818073
-- User ID: 67ed264474e846c5af0f73f4
-- App name: Bot Digi
-- Product name: Button Sender
+Bot Digi by Bot Digi.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/10b3ed60-189f-45b4-9d8c-dd58c329b7c7.jpg
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/10b3ed60-189f-45b4-9d8c-dd58c329b7c7.jpg)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/683a25a5c58a2dddbb818073/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Bot Digi** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/683a25a5c58a2dddbb818073/releases/latest) and reinstall.
